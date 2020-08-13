@@ -1,5 +1,6 @@
 ### Hi there I am Amal Mohan K 👋
-
+####- 🔭 I’m currently working on GoogleCloudReady Facilitator at Google India
+####- 📫 How to reach me: https://www.linkedin.com/in/amalmohank/
 <!--
 **amalmohan542/amalmohan542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
