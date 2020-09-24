@@ -4,7 +4,7 @@
 #### --------------------------------------------------------------------------------------------------------------------------------------------------------
 #### - 🔭 I’m currently working on GoogleCloudReady Facilitator at Google India
 #### - 📫 How to reach me: https://www.linkedin.com/in/amalmohank/
-#### - 🌱 I’m currently learning about Cloud technology and its Applications.
+#### 
 ####
 <!--
 **amalmohan542/amalmohan542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
