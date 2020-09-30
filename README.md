@@ -2,10 +2,12 @@
 #### ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Google Cloud Ready Facilitator at Google India | CS Under Grad Student | Cloud Enthusiast | Full Stack Web Developer 
 #### ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### - 🔭 I’m currently working on GoogleCloudReady Facilitator at Google India
+#### - 🔭 I’m currently working on GoogleCloudReady Facilitator at Google India  
+  
 #### - 📫 How to reach me: https://www.linkedin.com/in/amalmohank/
 #### 
 ####
+
 <!--
 **amalmohan542/amalmohan542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
