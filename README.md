@@ -1,7 +1,7 @@
 # Amal Mohan K
 
 ## Hi there 👋,           
-##### I'm Amal Mohan K, currently a final year Computer Science undergrad from Government Engineering College Palakkad.
+##### I'm Amal Mohan K, currently a Full Stack Developer.
 ## 🧐 About
 - 🏄‍ I'm a full stack developer.
 ---
