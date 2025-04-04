@@ -35,28 +35,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🔧 [**Typito**](https://typito.com) – Optimized UI tools for video editing; improved processing time by 20%
-- 🛍️ [**LummoShop**](https://www.keyvalue.systems/case-studies/lummo-shop/) – Built merchant portal UI for seamless stock & shipping management
-- 🔬 [**Uniqin.ai Dashboard**](https://uniqin.ai/) – Built frontend dashboard & backend APIs for AI-powered sales strategy SaaS platform. 
-
-> 🧠 Want more? Check out my [portfolio →](https://amalmohank.netlify.app)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalmohank&show_icons=true&theme=tokyonight&hide=prs" alt="Amal's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amalmohank&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalmohank&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
 ### 📫 Let’s Connect!
 
 <a href="https://www.linkedin.com/in/amalmohank/">
