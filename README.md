@@ -1,17 +1,16 @@
 <h1 align="center">Hey there! I'm Amal Mohan K 👋</h1>
 
 <p align="center">
-  🎯 Frontend Developer | 🌱 Data Science Grad Student @ TUHH | 🌍 Building things that matter
+  🎯 Frontend Developer | 🌱 Data Science Student @ TUHH | 🌍 Building things that matter
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💻 Passionate about crafting responsive and delightful UIs with **React, Next.js, and Vue**
+- 💻 Passionate about crafting responsive and delightful UIs with **React.js, Next.js, and Vue.js**
 - 📦 Skilled in **TypeScript**, **TailwindCSS**, **Shadcn**, and building clean design systems
 - 🔍 Currently exploring in **AI/Data Science**
-- 🌱 Building products that align with purpose
 - 📍 Based in **Hamburg**, open to Software Development & Data Science opportunities (Working Student/ Internship/ Fulltime)
 
 ---
