@@ -9,10 +9,10 @@
 ### 👨‍💻 About Me
 
 - 💻 Passionate about crafting responsive and delightful UIs with **React, Next.js, and Vue**
-- 📦 Skilled in **TypeScript**, **Tailwind**, **Shadcn**, and building clean design systems
-- 🔍 Currently exploring the intersection of frontend & **AI/Data Science**
-- 🌱 Building products that align with purpose – especially in clean energy & sustainability
-- 📍 Based in **Hamburg**, open to hybrid/frontend opportunities
+- 📦 Skilled in **TypeScript**, **TailwindCSS**, **Shadcn**, and building clean design systems
+- 🔍 Currently exploring in **AI/Data Science**
+- 🌱 Building products that align with purpose
+- 📍 Based in **Hamburg**, open to Software Development & Data Science opportunities (Working Student/ Internship/ Fulltime)
 
 ---
 
@@ -38,8 +38,8 @@
 ### 📌 Featured Projects
 
 - 🔧 [**Typito**](https://typito.com) – Optimized UI tools for video editing; improved processing time by 20%
-- 🛍️ [**LummoShop**](https://lummo.shop) – Built merchant portal UI for seamless stock & shipping management
-- 🔬 [**Uniqin.ai Dashboard**](https://uniqin.ai) – Built frontend dashboard & backend APIs for AI-powered sales strategies
+- 🛍️ [**LummoShop**](https://www.keyvalue.systems/case-studies/lummo-shop/) – Built merchant portal UI for seamless stock & shipping management
+- 🔬 [**Uniqin.ai Dashboard**](https://uniqin.ai/) – Built frontend dashboard & backend APIs for AI-powered sales strategy SaaS platform. 
 
 > 🧠 Want more? Check out my [portfolio →](https://amalmohank.netlify.app)
 
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 &nbsp;
-<a href="mailto:amalmohank@gmail.com">
+<a href="mailto:amalmohan542@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Say%20Hi!-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 
