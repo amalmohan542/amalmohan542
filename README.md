@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Amal Mohan K 👋</h1>
 
 <p align="center">
-  🎯 Frontend Developer | 🌱 Data Science Student @ TUHH | 🌍 Building things that matter
+  🎯 Software Engineer | 🌱 Data Science Student @ TUHH | 🌍 Building things that matter
 </p>
 
 ---
